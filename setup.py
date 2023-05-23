@@ -163,7 +163,7 @@ setup(
         'netifaces==0.10.7',
         'pexpect==4.8.0',
         'pyroute2==0.5.14',
-        'requests==2.25.0',
+        'requests==2.31.0',
         'sonic-platform-common',
         'sonic-py-common',
         'sonic-yang-mgmt',
